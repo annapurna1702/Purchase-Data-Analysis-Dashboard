@@ -1,3 +1,4 @@
+![Dashboard](https://github.com/user-attachments/assets/ff0f7863-576b-4f38-b10c-47cb2bb63952)
 # Purchase-Data-Analysis-Dashboard for a Shopping Mall
 
 This project is a **Power BI dashboard** designed to analyze customer spending patterns for a shopping mall, providing valuable insights into customer behavior segmented by gender, age, and income level. The goal is to help business decision-makers understand spending trends across demographics to better tailor marketing and customer engagement strategies.
